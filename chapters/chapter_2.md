@@ -1,4 +1,6 @@
-# Basic concepts
+# Coding environment
+
+## Basic concepts
 
 ## Python coding style
 
