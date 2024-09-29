@@ -25,4 +25,4 @@ than now.
 
 | Go back | Next.. |
 |---------|--------|
-| [Table of Contents](../index.md) | [Chapter 1](chapters/chapter_1.md) |
+| [Table of Contents](../index.md) | [Chapter 1](../chapters/chapter_1.md) |
