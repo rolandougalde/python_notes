@@ -119,6 +119,23 @@ welcome_user("Alice")
 
 - This example demonstrates a simple function that prints a personalized welcome message using string formatting.
 
+2. Displaying a Multiplication Table
+
+```python
+# Example 2: Print a multiplication table for a number
+def multiplication_table(number):
+    print(f"Multiplication Table for {number}")
+    for i in range(1, 11):
+        print(f"{number} x {i} = {number * i}")
+
+# Call the function
+multiplication_table(5)
+```
+
+**Explanation:**
+
+> This function prints the multiplication table of a given number from 1 to 10 using a for loop.
+
 
 ---
 
