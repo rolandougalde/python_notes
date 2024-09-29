@@ -54,11 +54,11 @@ you can write your code, run it, and even experiment with snippets in real-time.
 
 When you open Python IDLE, you’ll see two main components:
 
-1. **Interactive Shell**: This is the area where you can type Python commands and see immediate results. It’s perfect 
+1. *Interactive Shell*: This is the area where you can type Python commands and see immediate results. It’s perfect 
 for testing small pieces of code or learning how Python behaves one step at a time. For example, if you type 
 `print("Hello, World!")`, the shell will instantly show the output.
 
-2. **Script Editor**: When you’re ready to write longer programs, you can open a new file from the menu 
+2. *Script Editor*: When you’re ready to write longer programs, you can open a new file from the menu 
 (File > New File). This brings up the Script Editor, where you can write and save Python programs. You can then run 
 your code using the **Run** menu or by pressing `F5`. Any output from your program will appear in the Shell.
 
@@ -68,21 +68,21 @@ Python programs!
 
 **Visual Studio Code ** (VS Code) is a popular, free code editor that works great for Python programming. Here are three things that make it stand out:
 
-1. **Extensions**: With the Python extension, VS Code provides powerful features like IntelliSense (code completion), debugging, and linting (code quality checks).
+1. *Extensions*: With the Python extension, VS Code provides powerful features like IntelliSense (code completion), debugging, and linting (code quality checks).
    
-2. **Integrated Terminal**: You can run Python scripts directly within VS Code’s terminal without needing to switch between windows, making it efficient for testing and running code.
+2. *Integrated Terminal*: You can run Python scripts directly within VS Code’s terminal without needing to switch between windows, making it efficient for testing and running code.
 
-3. **Customizable**: VS Code is highly customizable with themes, keybindings, and additional extensions for various languages and tools, making it a flexible option for coders of all levels.
+3. *Customizable*: VS Code is highly customizable with themes, keybindings, and additional extensions for various languages and tools, making it a flexible option for coders of all levels.
 
 It’s an excellent tool if you're looking for a feature-rich environment as you advance in Python!
 
 **PyCharm Community** Edition is a powerful, free IDE tailored specifically for Python development. Here are three great features:
 
-1. **Smart Code Assistance**: PyCharm offers intelligent code completion, error checking, and quick fixes, helping you write clean, error-free Python code faster.
+1. *Smart Code Assistance*: PyCharm offers intelligent code completion, error checking, and quick fixes, helping you write clean, error-free Python code faster.
 
-2. **Built-in Debugger**: It comes with an integrated debugger and testing tools, allowing you to troubleshoot and test your Python applications without additional setup.
+2. *Built-in Debugger*: It comes with an integrated debugger and testing tools, allowing you to troubleshoot and test your Python applications without additional setup.
 
-3. **Project Management**: PyCharm makes it easy to organize and manage larger projects, with support for virtual environments and version control systems like Git.
+3. *Project Management*: PyCharm makes it easy to organize and manage larger projects, with support for virtual environments and version control systems like Git.
 
 It's an excellent choice if you're working on more complex Python projects and need a robust, dedicated environment.
 
