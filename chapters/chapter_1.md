@@ -1,4 +1,4 @@
-# Intro
+# Introduction
 
 As an IT professional with coding experience, diving into Python can feel like a natural next step but may come with
 its own challenges, especially if programming logic hasn’t always been your strongest suit. The good news is that 
@@ -28,7 +28,7 @@ To get started, head over to the official Python download page: [Download Python
 
 After installation, you're all set to start coding!
 
-### Download & Install
+## Download & Install
 
 Here’s a quick guide for each operating system:
 
@@ -46,7 +46,7 @@ Here’s a quick guide for each operating system:
 2. If it’s not there or needs updating, run this command:  
    `sudo apt-get install python3` (for Ubuntu/Debian-based systems).
 
-### Choosing an IDE
+## Choosing an IDE
 
 **Python IDLE** (Integrated Development and Learning Environment) is the default editor that comes bundled with Python, 
 designed to make writing and running Python code simple and beginner-friendly. It offers a graphical interface where 
@@ -86,7 +86,7 @@ It’s an excellent tool if you're looking for a feature-rich environment as you
 
 It's an excellent choice if you're working on more complex Python projects and need a robust, dedicated environment.
 
-### Running programs
+## Running programs
 
 At last, we finally will write a program, the classic message `Hello World!`, in Python looks like that:
 
@@ -102,7 +102,7 @@ Hello world!
 === Code Execution Successful ===
 ```
 
-### Examples
+## Examples
 
 1. Displaying a Welcome Message
 
@@ -165,7 +165,7 @@ This chart shows the following steps:
 3. *Print step*: The print statement is executed to display "Welcome, Alice!".
 4. *End*: The function completes.
 
-### Exercises
+## Exercises
 
 Here are three comfortable exercises designed to practice different variations of the print() function,
 each exercise progressively introduces new features of the print() function, allowing you to build confidence as you 
