@@ -20,3 +20,9 @@
 
 ### Conversion type
 
+## Examples
+
+## Exercises
+
+## Summary
+
