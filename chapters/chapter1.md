@@ -66,7 +66,7 @@ IDLE is lightweight, intuitive, and perfect for beginners or anyone looking to q
 without the need for a full-fledged development environment. It’s a fantastic starting point for writing your first 
 Python programs!
 
-**Visual Studio Code ** (VS Code) is a popular, free code editor that works great for Python programming. Here are three things that make it stand out:
+**Visual Studio Code** (VS Code) is a popular, free code editor that works great for Python programming. Here are three things that make it stand out:
 
 1. *Extensions*: With the Python extension, VS Code provides powerful features like IntelliSense (code completion), debugging, and linting (code quality checks).
    
