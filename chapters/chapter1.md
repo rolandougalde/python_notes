@@ -102,6 +102,24 @@ Hello world!
 === Code Execution Successful ===
 ```
 
+### Examples
+
+1. Displaying a Welcome Message
+
+```python
+# Example 1: Basic welcome message
+def welcome_user(name):
+    print(f"Welcome, {name}!")
+
+# Call the function
+welcome_user("Alice")
+```
+
+**Explanation:**
+
+- This example demonstrates a simple function that prints a personalized welcome message using string formatting.
+
+
 ---
 
 | Go back | Next.. |
