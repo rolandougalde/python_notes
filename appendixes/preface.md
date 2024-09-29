@@ -22,3 +22,7 @@ building something from the ground up. The future of technology is in their hand
 than now.
 
 *Thank you kindly*
+
+| Go back | Next.. |
+|---------|--------|
+| [Table of Contents](../index.md) | [Chapter 1](chapters/chapter_1.md) |
