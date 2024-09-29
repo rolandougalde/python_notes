@@ -238,4 +238,4 @@ Now you are a **programmer**, what would you do next?
 
 | Go back | Next.. |
 |---------|--------|
-| [Table of Contents](../index.md) | [Chapter 2](chapters/chapter_2.md) |
+| [Table of Contents](../index.md) | [Chapter 2](chapter_2.md) |
