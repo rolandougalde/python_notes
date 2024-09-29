@@ -158,6 +158,8 @@ Here’s a chart that explains the flow of Example 1:
 
 ![Chart 1.1](../images/chart_1_1.svg "Chart 1.1")
 
+<img src="../images/chart_1_1.svg" alt="Chapter 1.1" style="width:30%;"/>
+
 This chart shows the following steps:
 
 1. *Start*: The function welcome_user("Alice") is called.
