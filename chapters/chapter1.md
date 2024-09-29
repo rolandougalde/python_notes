@@ -158,11 +158,9 @@ Here’s a chart that explains the flow of Example 1:
 
 ```mermaid
 graph TD
-    A[Start] --> B[Call function: welcome_user("Alice")]
-    B --> C{Function: welcome_user}
-    C --> D[Input: name = "Alice"]
-    D --> E[Print: "Welcome, Alice!"]
-    E --> F[End]
+    A[welcome_user] --variable--> B(name)
+    B --value--> C(print)
+    B --text--> C[Output]
 ```
 ---
 
