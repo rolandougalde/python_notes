@@ -28,3 +28,8 @@
 
 ## Summary
 
+---
+
+| ..Go back | Home | Next.. |
+|---------- | ---- |--------|
+| [Chapter 1](chapter_1.md) | [TOC](../index.md) | [Chapter 3](chapter_3.md) |
