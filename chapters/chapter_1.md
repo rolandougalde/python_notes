@@ -235,7 +235,6 @@ Now you are a **programmer**, what would you do next?
 
 ---
 
-
-| Go back | Next.. |
-|---------|--------|
-| [Table of Contents](../index.md) | [Chapter 2](chapter_2.md) |
+| ..Go back | Home | Next.. |
+|---------- | ---- |--------|
+| [TOC](../index.md) | [TOC](../index.md) | [Chapter 2](chapter_2.md) |
