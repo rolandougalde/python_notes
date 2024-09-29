@@ -202,19 +202,19 @@ Hint: Use an `f-string` and a variable to dynamically insert the user's name int
 
 **Solutions**:
 
-*Example 1 solution*:
+*Exercise 1 solution*:
 
 ```python
 print("Hello, world!")
 ```
 
-*Example 2 solution*:
+*Exercise 2 solution*:
 
 ```python
 print("Hello, world!\nHow are you today?")
 ```
 
-*Example 3 solution*:
+*Exercise 3 solution*:
 
 ```python
 name = input("What is your name? ")
