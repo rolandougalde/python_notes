@@ -104,7 +104,7 @@ Hello world!
 
 ## Examples
 
-1. Displaying a Welcome Message
+**Example 1**: Displaying a Welcome Message
 
 ```python
 # Example 1: Basic welcome message
@@ -115,11 +115,11 @@ def welcome_user(name):
 welcome_user("Alice")
 ```
 
-**Explanation:**
+*Explanation:*
 
 > This example demonstrates a simple function that prints a personalized welcome message using string formatting.
 
-2. Displaying a Multiplication Table
+**Example 2**: Displaying a Multiplication Table
 
 ```python
 # Example 2: Print a multiplication table for a number
@@ -132,11 +132,11 @@ def multiplication_table(number):
 multiplication_table(5)
 ```
 
-**Explanation:**
+*Explanation:*
 
 > This function prints the multiplication table of a given number from 1 to 10 using a for loop.
 
-3. Displaying a List of Items
+**Example 3**: Displaying a List of Items
 
 ```python
 # Example 3: Print items in a list with their index
@@ -149,7 +149,7 @@ def display_items(items):
 display_items(["Apple", "Banana", "Orange"])
 ```
 
-**Explanation:**
+*Explanation:*
 
 > This function takes a list of items and prints them with an index, showing how enumerate() can be used in conjunction with print() to display numbered lists.
 > Each of these examples highlights a practical use of print() combined with functions, loops, and string formatting.
