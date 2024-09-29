@@ -2,6 +2,8 @@
 
 Welcome to my book about learning Python!!
 
+We hope be helpful in your learning process.
+
 ![Python Genie](images/python_genie_02.jpg "Python Genie")
 
 ## Table of Contents
