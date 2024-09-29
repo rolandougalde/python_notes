@@ -165,7 +165,63 @@ This chart shows the following steps:
 3. *Print step*: The print statement is executed to display "Welcome, Alice!".
 4. *End*: The function completes.
 
-You can use this code in a Mermaid rendering tool to visualize the flow.
+### Exercises
+
+Here are three comfortable exercises designed to practice different variations of the print() function,
+each exercise progressively introduces new features of the print() function, allowing you to build confidence as you 
+learn!
+
+**Exercise 1**: Basic `print()` Function
+*Task:* Write a Python program that prints the following sentence:
+
+```
+Hello, Alice!
+
+```
+
+*Hint*: Use the `print()` function to display the text.
+
+**Exercise 2**: Using `\n` for Line Breaks
+*Task*: Modify your program to print the following text using a single `print()` statement:
+
+```
+Hello, world!
+How are you today?
+```
+
+*Hint*: Use \n to insert a line break between the two sentences.
+
+**Exercise 3**: Using `f-strings` and Variables
+*Task*: Write a Python program that asks the user for their name, then prints a personalized greeting. The output should look like this:
+
+```
+Hello, Alice! Welcome to Python programming.
+```
+
+Hint: Use an `f-string` and a variable to dynamically insert the user's name into the message.
+
+**Solutions**:
+
+*Example 1 solution*:
+
+```python
+print("Hello, world!")
+```
+
+*Example 2 solution*:
+
+```python
+print("Hello, world!\nHow are you today?")
+```
+
+*Example 3 solution*:
+
+```python
+name = input("What is your name? ")
+print(f"Hello, {name}! Welcome to Python programming.")
+```
+
+Now you are a **programmer**, what would you do next?
 
 ---
 
