@@ -102,5 +102,6 @@ Hello world!
 === Code Execution Successful ===
 ```
 
-| [Tabke of Contents](../index.md) | [Chapter 2](chapters/chapter2.md) |
+| Go back | Next.. |
 |---------|-------------|
+| [Table of Contents](../index.md) | [Chapter 2](chapters/chapter2.md) |
