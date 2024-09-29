@@ -13,8 +13,8 @@ We hope be helpful in your learning process.
 | Chapter | Description |
 |---------|-------------|
 | [Preface](appendixes/preface.md) | What I learned.. |
-| 1. [Introduction to Python](chapters/chapter1.md) | Environment and IDE inatallation |
-| 2. [Variables and values](chapters/chapter2.md) | A fresh start with hands on data |
+| 1. [Introduction to Python](chapters/chapter_1.md) | Environment and IDE inatallation |
+| 2. [Variables and values](chapters/chapter_2.md) | A fresh start with hands on data |
 | - [References](references.md) | Thanks to all the teachers |
 | - [Summary](summary.md) | A consolidated frameset of new skills |
 
