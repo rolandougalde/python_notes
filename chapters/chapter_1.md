@@ -108,51 +108,52 @@ Hello world!
 
 ```python
 # Example 1: Basic welcome message
-def welcome_user(name):
-    print(f"Welcome, {name}!")
-
-# Call the function
-welcome_user("Alice")
+print("Hello, Alice!!")
 ```
 
 *Explanation:*
 
-> This example demonstrates a simple function that prints a personalized welcome message using string formatting.
+- This is the simplest form of the print() function.
+- It directly prints the string "Hello, Alice!!" to the console.
+- There are no variables or complex formatting; it's a straightforward output of text.
 
-**Example 2**: Displaying a Multiplication Table
+**Example 2**: `print` with String Concatenation
 
 ```python
-# Example 2: Print a multiplication table for a number
-def multiplication_table(number):
-    print(f"Multiplication Table for {number}")
-    for i in range(1, 11):
-        print(f"{number} x {i} = {number * i}")
-
-# Call the function
-multiplication_table(5)
+# Example 2: Print with String Concatenation
+name = "Alice"
+print("Hello, " + name + "!!, Welcome to wonderland")
 ```
 
 *Explanation:*
 
-> This function prints the multiplication table of a given number from 1 to 10 using a for loop.
+- This example introduces a variable name, which stores the value "Alice".
+- The print() function uses string concatenation (with the + operator) to combine the text "Hello, ", the value of the
+variable name, and the additional string ", Welcome to wonderland".
+- The result is: "Hello, Alice!!, Welcome to wonderland".
 
 **Example 3**: Displaying a List of Items
 
 ```python
 # Example 3: Print items in a list with their index
-def display_items(items):
-    print("Items in your list:")
-    for index, item in enumerate(items, start=1):
-        print(f"{index}. {item}")
+name = "Alice"
+print(f"Hello, {name}!!, Welcome to wonderland\nDo you want a cup of tea?")
 
-# Call the function
-display_items(["Apple", "Banana", "Orange"])
 ```
 
 *Explanation:*
 
-> This function takes a list of items and prints them with an index, showing how enumerate() can be used in conjunction with print() to display numbered lists.
-> Each of these examples highlights a practical use of print() combined with functions, loops, and string formatting.
+- This example introduces f-strings (formatted string literals). An f-string allows you to insert variables directly 
+inside a string by wrapping the variable in curly braces {}.
+- The variable name is used inside the f-string to dynamically print "Alice" within the sentence.
+- The \n is a special escape character that inserts a new line in the output, so the next sentence "Do you want a cup 
+of tea?" is printed on the second line.
+- The output is:
+
+```
+Hello, Alice!!, Welcome to wonderland
+Do you want a cup of tea?
+```
 
 Here’s a chart that explains the flow of Example 1:
 
@@ -221,9 +222,19 @@ name = input("What is your name? ")
 print(f"Hello, {name}! Welcome to Python programming.")
 ```
 
+---
+
+## Summary
+
+- First example: A basic print statement without any variables.
+- Second example: Uses a variable and string concatenation to build a sentence dynamically.
+- Third example: Combines an f-string (for easier string formatting) with a newline \n for multi-line output, making
+it more readable and elegant.
+
 Now you are a **programmer**, what would you do next?
 
 ---
+
 
 | Go back | Next.. |
 |---------|--------|
