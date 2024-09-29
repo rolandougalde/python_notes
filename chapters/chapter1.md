@@ -162,6 +162,16 @@ graph TD
     B --value--> C(print)
     B --text--> C[Output]
 ```
+
+This chart shows the following steps:
+
+1. *Start*: The function welcome_user("Alice") is called.
+2. *Is function called?*: The function takes name = "Alice" as input.
+3. *Print step*: The print statement is executed to display "Welcome, Alice!".
+4. *End*: The function completes.
+
+You can use this code in a Mermaid rendering tool to visualize the flow.
+
 ---
 
 | Go back | Next.. |
