@@ -117,7 +117,7 @@ welcome_user("Alice")
 
 **Explanation:**
 
-- This example demonstrates a simple function that prints a personalized welcome message using string formatting.
+> This example demonstrates a simple function that prints a personalized welcome message using string formatting.
 
 2. Displaying a Multiplication Table
 
@@ -136,7 +136,34 @@ multiplication_table(5)
 
 > This function prints the multiplication table of a given number from 1 to 10 using a for loop.
 
+3. Displaying a List of Items
 
+```python
+# Example 3: Print items in a list with their index
+def display_items(items):
+    print("Items in your list:")
+    for index, item in enumerate(items, start=1):
+        print(f"{index}. {item}")
+
+# Call the function
+display_items(["Apple", "Banana", "Orange"])
+```
+
+**Explanation:**
+
+> This function takes a list of items and prints them with an index, showing how enumerate() can be used in conjunction with print() to display numbered lists.
+> Each of these examples highlights a practical use of print() combined with functions, loops, and string formatting.
+
+Here’s a chart that explains the flow of Example 1:
+
+```mermaid
+graph TD
+    A[Start] --> B[Call function: welcome_user("Alice")]
+    B --> C{Function: welcome_user}
+    C --> D[Input: name = "Alice"]
+    D --> E[Print: "Welcome, Alice!"]
+    E --> F[End]
+```
 ---
 
 | Go back | Next.. |
