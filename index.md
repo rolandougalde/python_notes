@@ -2,9 +2,10 @@
 
 Welcome to my book about learning Python!!
 
-We hope be helpful in your learning process.
-
 ![Python Genie](images/python_genie_02.jpg "Python Genie")
+
+We hope be helpful in your learning process.
+---
 
 ## Table of Contents
 
@@ -15,3 +16,4 @@ We hope be helpful in your learning process.
 | 2. [Variables and values](chapters/chapter2.md) | A fresh start with hands on data |
 | - [References](references.md) | Thanks to all the teachers |
 | - [Summary](summary.md) | A consolidated frameset of new skills |
+---
