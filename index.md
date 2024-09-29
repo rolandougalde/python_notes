@@ -1,5 +1,9 @@
 # Python_Notes
 
+Welcome to my book about learning Python!!
+
+![Python Genie](images/python_genie_02.jpg "Python Genie")
+
 ## Table of Contents
 
 | Chapter | Description |
