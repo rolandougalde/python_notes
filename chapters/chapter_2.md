@@ -143,7 +143,7 @@ store information, and the value is what's inside the box.
 
 *Assigning Values to Variables:*
 
-- You assign a value to a variable using the = operator. The variable can then hold that value until you change it.
+- You assign a value to a variable using the `=` operator. The variable can then hold that value until you change it.
 - Example:
 
 ```python
@@ -151,7 +151,7 @@ name = "Alice"
 age = 16
 ```
 
-Here, the variable name stores the value "Alice", and age holds the value 25.
+> Here, the variable `name` stores the value `"Alice"`, and `age` holds the value `25`.
 
 *Changing Variable Values:*
 
@@ -177,10 +177,11 @@ my_variable = "Hello"  # Now, my_variable holds a string
 
 - Variables should have meaningful names to make your code easy to understand. Python has a few rules for naming
 variables:
-> Names must start with a letter (a-z, A-Z) or an underscore (_).
+
+> Names must start with a letter (a-z, A-Z) or an underscore (`_`).
 > Names can include letters, numbers (0-9), and underscores.
-> Variable names are case-sensitive (e.g., age and Age are different).
-> Avoid using Python reserved words (e.g., for, while, if).
+> Variable names are case-sensitive (e.g., `age` and `Age` are different).
+> Avoid using Python reserved words (e.g., `for`, `while`, `if`).
 
 *Referencing Variables:*
 
@@ -210,7 +211,7 @@ Python allows you to assign multiple variables in one line.
 x, y, z = 1, 2, 3
 ```
 
-- This assigns x = 1, y = 2, and z = 3 in a single statement.
+- This assigns `x = 1`, `y = 2`, and `z = 3` in a single statement.
 
 **Summary:**
 
