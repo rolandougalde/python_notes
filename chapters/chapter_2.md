@@ -65,7 +65,7 @@ assert     del        global     not        with
 async      elif       if         or         yield
 ```
 
-**Indentation:--
+**Indentation:**
 
 Indentation in Python refers to adding spaces or tabs at the beginning of lines to define blocks of code. Unlike many
 other languages, Python uses indentation to organize code and show the structure (e.g., for loops or conditionals).
