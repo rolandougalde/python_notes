@@ -89,6 +89,51 @@ error-free.
 
 ### Comments
 
+In Python, comments are pieces of text in your code that Python ignores when running the program. They are extremely
+useful for leaving notes, explaining what certain parts of the code do, and documenting important information for 
+yourself or other developers.
+
+**Types of Comments in Python:**
+
+1. Single-line Comments:
+- Use the `#` symbol to write a comment. Anything after the `#` on that line is ignored by Python.
+- Example:
+
+```python
+# This is a single-line comment
+print("Hello, world!")  # This prints a message
+```
+
+2. Multi-line Comments:
+
+- You can create multi-line comments using triple quotes (''' or """). Technically, these are treated as multi-line
+    strings, but they can be used as comments if not assigned to any variable.
+- Example:
+
+```python
+"""
+This is a multi-line comment.
+It can span multiple lines.
+"""
+print("Hello, world!")
+```
+
+**Why Comments Are Important:**
+
+From my experience, comments are one of the first and most useful tools in any programming language. They help in
+several key ways:
+
+- Clarity: Comments explain complex or tricky parts of the code, making it easier to understand, especially when
+revisiting the code after a long time.
+
+- Collaboration: In teams, comments make your code readable and understandable for others, improving collaboration.
+- Debugging: Comments allow you to track thought processes and decisions, which is useful when debugging or revising
+code.
+
+As someone who’s navigated through many layers of IT and programming, I believe comments are invaluable, not only for
+beginners learning to code but also for experienced programmers who need to document their thought process or clarify 
+logic. They create a “roadmap” within the code, guiding both the writer and future readers through what’s happening.
+
 ## Values
 
 ## Variables
