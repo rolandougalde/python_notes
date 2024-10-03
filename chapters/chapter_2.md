@@ -45,6 +45,48 @@ it’s given, using its hardware to handle information and get results.
 
 ## Python coding style
 
+Python is a simple, easy-to-read programming language. It uses plain English-like syntax, making it a great choice for 
+beginners. Python emphasizes writing code in a clear and organized way, using indentation and following specific rules.
+
+**Reserved Words in Python:**
+
+Reserved words (or keywords) are special words that Python uses for specific purposes. You cannot use these as variable
+names because they have predefined meanings in the language.
+
+Here’s a list of Python's reserved words:
+
+```
+False      await      else       import     pass
+None       break      except     in         raise
+True       class      finally    is         return
+and        continue   for        lambda     try
+as         def        from       nonlocal   while
+assert     del        global     not        with
+async      elif       if         or         yield
+```
+
+**Indentation:--
+
+Indentation in Python refers to adding spaces or tabs at the beginning of lines to define blocks of code. Unlike many
+other languages, Python uses indentation to organize code and show the structure (e.g., for loops or conditionals).
+
+*Incorrect Example (without indentation):*
+
+```python
+if True:
+print("This will cause an error")
+```
+
+*Correct Example:*
+
+```python
+if True:
+    print("This is indented")
+```
+
+Python requires indentation, so make sure you indent consistently, usually by 4 spaces, to keep your code readable and
+error-free.
+
 ### Comments
 
 ## Values
