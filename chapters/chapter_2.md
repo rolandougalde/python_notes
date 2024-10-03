@@ -95,7 +95,7 @@ yourself or other developers.
 
 **Types of Comments in Python:**
 
-1. Single-line Comments:
+*Single-line Comments:*
 - Use the `#` symbol to write a comment. Anything after the `#` on that line is ignored by Python.
 - Example:
 
@@ -104,7 +104,7 @@ yourself or other developers.
 print("Hello, world!")  # This prints a message
 ```
 
-2. Multi-line Comments:
+*Multi-line Comments:*
 
 - You can create multi-line comments using triple quotes (''' or """). Technically, these are treated as multi-line
     strings, but they can be used as comments if not assigned to any variable.
