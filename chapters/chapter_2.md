@@ -222,13 +222,101 @@ code.
 
 ## Data types
 
-**String:**
+In Python, data types are categories that define what kind of values a variable can hold. Think of them as different
+types of “stuff” that you can put into boxes (variables). Each box (variable) has a label and contains a specific type
+of item (data). Python automatically understands what type of data you’re working with, so you don’t need to worry 
+about declaring types like in other languages.
 
-**Integer:**
+**Strings `(srt)`**
 
-**Float:**
+A string is a collection of characters, like words or sentences. In Python, strings are enclosed in either single (`'`)
+or double quotes (`"`). Strings are useful for storing text, such as names, messages, or descriptions.
 
-**Bolean:**
+- *Example:*
+
+```python
+character_name = "Alice"
+location = "Wonderland"
+print(character_name)  # Output: Alice
+print("Welcome to " + location)  # Output: Welcome to Wonderland
+```
+
+> Here, both `"Alice"` and `"Wonderland"` are strings. You can combine strings using the + operator (called
+> concatenation), like creating the message `"Welcome to Wonderland"`.
+
+**Integer `(int)`**
+
+An integer is a whole number, without any decimal points. It can be positive, negative, or zero. Integers are used when
+you need to count or do mathematical calculations.
+
+- *Example:*
+
+```python
+age = 10
+number_of_talking_animals = 7
+print(age)  # Output: 10
+print(number_of_talking_animals)  # Output: 7
+```
+
+> In this example, the variable `age` holds the integer `10`, and `number_of_talking_animals` holds the integer `7`. 
+> These are simple whole numbers that Python recognizes as integers.
+
+**Float (`float`)**
+
+A float is a number with decimal points. Floats are useful for more precise values, like measurements or calculations
+involving fractions.
+
+- *Example:*
+
+```python
+teacup_size = 3.5  # in ounces
+fall_down_the_rabbit_hole_time = 4.7  # seconds
+print(teacup_size)  # Output: 3.5
+print(fall_down_the_rabbit_hole_time)  # Output: 4.7
+```
+
+> Here, `teacup_size` represents 3.5 ounces of tea (a float because it has a decimal), and 
+> `fall_down_the_rabbit_hole_time` is 4.7 seconds. Python automatically treats these as float values because they 
+include decimal points.
+
+**Bolean (`bool`)**
+
+A boolean represents only two values: `True` or `False`. Booleans are used when you need to express a condition or 
+check whether something is true or false.
+
+- *Example:*
+
+```python
+is_in_wonderland = True
+is_the_mad_hatter_sane = False
+print(is_in_wonderland)  # Output: True
+print(is_the_mad_hatter_sane)  # Output: False
+```
+
+> In this case, `is_in_wonderland` is `True` because Alice is in Wonderland, while `is_the_mad_hatter_sane` is `False` 
+> (we all know how mad the Hatter can be!). These are boolean values that Python uses to represent yes/no or true/false 
+> conditions.
+
+- *Example:*
+
+Here's a small example combining all these types:
+
+```python
+character_name = "Alice"  # String
+age = 10  # Integer
+teacup_size = 3.5  # Float
+is_in_wonderland = True  # Boolean
+
+print(f"{character_name}, aged {age}, is in Wonderland: {is_in_wonderland}. She drinks {teacup_size} ounces of tea.")
+```
+
+*Output:*
+
+```python
+Alice, aged 10, is in Wonderland: True. She drinks 3.5 ounces of tea.
+```        
+
+This example shows how different data types work together in Python, creating a little adventure in Wonderland!
 
 ## Conversion type
 
@@ -237,6 +325,11 @@ code.
 ## Exercises
 
 ## Summary
+
+- Strings (str) are for storing text: "Alice", "Wonderland".
+- Integers (int) are whole numbers: 10, 7.
+- Floats (float) are numbers with decimals: 3.5, 4.7.
+- Booleans (bool) are true/false values: True, False.
 
 ---
 
