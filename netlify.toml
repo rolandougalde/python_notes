@@ -1,0 +1,6 @@
+[build]
+  command = "jekill"
+  publish = "public"
+
+[build.environment]
+  JEKILL_VERSION = "2.8.0"
